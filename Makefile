@@ -29,7 +29,7 @@ endif
 #REPO_ORG = decentralized-minds
 REPO_ORG = thuhinkumar
 REPO_NAME = LibraPerformance
-LAYOUT_FILE = ~/LibraPerformance/set_layout.toml
+LAYOUT_FILE = /mnt/LibraPerformance/set_layout.toml
 
 # Registration params
 REMOTE = 'backend=github;repository_owner=${REPO_ORG};repository=${REPO_NAME};token=${DATA_PATH}/github_token.txt;namespace=${ACC}'
